@@ -1,0 +1,6 @@
+For Naive Bayes and LR:
+
+Copy the test and training data inside the “data” folder given in the read me file  so that the below directory structure is there in the destination folder before you run the code.( I forgot this part to write in readme file. I apologize for that).
+.\data\hw2_test
+.\data\hw2_train
+
